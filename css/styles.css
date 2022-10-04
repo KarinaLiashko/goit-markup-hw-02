@@ -114,7 +114,7 @@ a {
     text-decoration: none;
 }
 
-.current {
+.current-link {
     color: var(--color-brand);
     font-weight: 500;
     font-size: 14px;
